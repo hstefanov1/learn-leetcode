@@ -1,0 +1,5 @@
+Example 1,(),true
+Example 2,()[]{},true
+Example 3,(],false
+Example 4,([]),true
+Example 5,([)],false
